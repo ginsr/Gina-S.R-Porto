@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/Location-Surabaya%2C_Indonesia-lightgrey?style=flat" alt="Location">
 </p>
 
-An aspiring **Data Analyst** with a solid foundation in research data analysis, skilled in translating complex datasets into actionable business insights. Highly adaptable and driven to help organizations make confident, data-backed decisions. Currently sharpening technical and business intelligence skills through an intensive Data Analyst Bootcamp at Dibimbing.
+**Public Health Graduate | Aspiring Data Analyst**
+
+Passionate about data analytics and currently deepening my skills in transforming raw data into actionable insights. Combining a strong analytical mindset from my public health background with modern data tools to solve real-world problems.
 
 ---
 
@@ -17,29 +19,39 @@ An aspiring **Data Analyst** with a solid foundation in research data analysis, 
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Featured Projects
 
-### 1. Employee Performance Case Study (Python Project)
-* **Objective:** Evaluate whether training hours and employee experience levels directly drive performance ratings and project completion volume.
-* **Key Insights:** 
-  * *Training vs. Performance:* Average training hours remain virtually identical across performance levels (~37–39 hrs), proving training volume alone does not drive higher performance.
-  * *Project Completion:* Evenly distributed across Junior, Mid, and Senior levels (9.4–10.1 projects), showing no output dominance by seniority.
-* **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn
+#### 🚛 1. Olist E-Commerce Logistics & Delivery Performance Analysis (Tableau & Canva)
+- **Overview:** End-to-end data storytelling project analyzing logistics performance, shipping delays, and customer satisfaction metrics using Brazil’s Olist e-commerce dataset.
+- **Key Findings & Insights:**
+  * Identified that sellers and customers are heavily concentrated in **São Paulo**, causing significant delivery duration disparities.
+  * Highlighted that shipments bound for the **North and Northeast regions** experience the longest transit times due to geographic concentration in the Southeast.
+- **Technical Highlights:** Performed spatial and visual data analysis, calculated regional metrics, and built an interactive **Tableau** dashboard with a structured UI layout designed in **Canva**.
+- **Links:** [Tableau Dashboard](https://public.tableau.com/views/OlistLogiticGeoBulletinDashboard/DashboardOlist?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### 2. Relational Database Schema Design (SQL Project)
-* **Objective:** Design and construct a 3NF-compliant relational database schema for an e-commerce platform to establish structured data relationships, ensure transactional integrity, and eliminate redundancy.
-* **Tech Stack:** PostgreSQL, DBeaver, DDL & DML SQL
+#### 🐍 2. Employee Performance Analysis & EDA (Python)
+- **Overview:** Exploratory Data Analysis (EDA) project focusing on employee performance metrics to uncover workforce patterns and key drivers affecting                        productivity.
+- **Key Findings & Insights:**
+ **Training vs. Performance:** Found no significant difference in training hours across performance tiers (Low, Medium, High), indicating that training quantity                               alone does not automatically boost employee performance.
+  * **Experience Level vs. Project Output:** Discovered that project completion volumes across Junior, Mid, and Senior levels are quite similar, signaling that                                              output shouldn't be judged solely by raw task quantity.
+- **Strategic Recommendations:**
+  * Review training curriculum relevance and post-training evaluation methods beyond mere attendance tracking.
+  * Look into other performance drivers such as workload distribution, job-desk alignment, and team management effectiveness rather than focusing purely on            quantitative project output.
+- **Technical Highlights:** Built data manipulation workflows using **Pandas** and **NumPy** in **Google Colab**, and generated distribution charts using **Matplotlib** and **Seaborn**.
+- **Links:** [Employee Performance (Python)](https://github.com/ginsr/My-Coding-Repository/blob/main/Case_Study_Preparing_Data_for_Analysis_Gina_Salsabila_R.ipynb) 
 
-### 3. Olist Logistics & Geography Bulletin (Tableau Project)
-* **Objective:** Analyze geographic delivery disparities and logistics performance across Brazilian states for Olist to optimize fulfillment strategies.
-* **Key Insights:**
-  * São Paulo (SP) dominates as the geographic gravity center with the fastest average delivery time (8.7 days).
-  * Customers in remote states (e.g., RR, PB) spend significantly more per order (~R$ 220–230) to compensate for shipping distances.
-* **Tech Stack:** Tableau, Canva (UI/UX)
+#### 🗄️ 3. Database Schema Design & Query Manipulation (PostgreSQL / SQL)
+- **Overview:** Designed and constructed a **3NF-compliant relational database schema** for an e-commerce platform using **PostgreSQL** and **DBeaver** to establish structured data relationships, ensure transactional integrity, and eliminate data redundancy.
+- **Key Deliverables & Workflow:**
+  * **Schema Design (3NF):** Modeled normalized entities (`customers`, `orders`, `order_details`, `products`, `categories`) with established primary and foreign                             key constraints.
+  * **DDL Implementation:** Executed DDL scripts to build table structures and define data types accurately.
+  * **Validation & Testing:** Tested schema integrity using SQL queries to ensure smooth data operations and query performance.
+- **Technical Highlights:** Schema normalization (3NF), DDL & DML SQL, PostgreSQL, DBeaver.
+- **Links:** [Database Schema Design (SQL)](https://github.com/ginsr/My-Coding-Repository/blob/main/Case%20Study%20Building%20Database_Gina%20Salsabila%20R.sql) 
 
 ---
 
 ## 📫 Let's Connect
 * **Tableau Public:** [View Dashboards](https://public.tableau.com/app/profile/gina.salsabila.r7644/vizzes) 
-* **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/gina-salsabila-ramadhani) 
+* **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/gina-salsabila-ramadhani) 
 * **Email:** ginasalsabilar@gmail.com
